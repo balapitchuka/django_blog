@@ -1,2 +1,2 @@
-# django_blog
-simple blog website for writing posts 
+# Django Blog
+> simple blog website for writing posts 
